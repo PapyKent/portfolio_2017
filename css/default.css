@@ -50,7 +50,7 @@ table {
 /* End css reset  */
 
 body{
-	background-color: #c6c6e3;
+	background-color: #fafafa;
 }
 
 a{
@@ -150,7 +150,7 @@ header{
 }
 
 .about-sub-content{
-	background-color: #FFFFFF;
+	background-color: #e6e6e6;
 	padding:3%;
 }
 .work-title{
@@ -173,7 +173,7 @@ header{
  float: left;
  text-align:left;
  width:480px;
- background-color:#fff;
+ background-color:#c2c2f8;
  height:100%;
 }
 .text-box-content {
