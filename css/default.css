@@ -50,7 +50,7 @@ table {
 /* End css reset  */
 
 body{
-	background-color: #fafafa;
+	background-color: #fffff5;
 }
 
 a{
@@ -150,7 +150,7 @@ header{
 }
 
 .about-sub-content{
-	background-color: #e6e6e6;
+	background-color: #ffda8e;
 	padding:3%;
 }
 .work-title{
@@ -173,7 +173,7 @@ header{
  float: left;
  text-align:left;
  width:480px;
- background-color:#c2c2f8;
+ background-color:#80d4f6;
  height:100%;
 }
 .text-box-content {
@@ -205,6 +205,7 @@ header{
  width:480px;
  height:300px;
  overflow:hidden;
+ cursor:pointer;
 }
 .left {
  float:left;
@@ -225,7 +226,7 @@ header{
 
 .contact {
  width:100%;
- background-color:#011833;
+ background-color:#5c196b;
  padding:5% 0;
  margin-top:5%;
  clear:both;
