@@ -85,10 +85,10 @@ h3{
 header{
 	background:
 	linear-gradient(
-		rgba(60,68,92,0.80),
-		rgba(60,68,92,0.60)
+		rgba(60,68,60,0.80),
+		rgba(60,68,60,0.60)
 		),
-	url(..//img/header.jpg);
+	url(..//img/header2.jpg);
 	background-size:cover;
 	background-position:center top;
 	width:100%;
